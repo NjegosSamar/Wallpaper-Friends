@@ -2,7 +2,6 @@ import download_btn from "./assets/download_btn.png";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import { useState } from "react";
 
 type propsType = {
   type: String;
