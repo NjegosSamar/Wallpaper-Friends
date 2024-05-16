@@ -12,7 +12,7 @@ Features:
 
 Bring a touch of magic to your screens with Wallpaper Friends! Visit us today to explore and download enchanting baby dragon wallpapers.
 
-👉 Live Demo: [Wallpaper Friends](https://wallpaper-friends.vercel.app/)
+👉 Live Demo: [Wallpaper Friends](https://wallpaper-friends.vercel.app/){:target="_blank"}
 
 **Build with:**
 » React JS
