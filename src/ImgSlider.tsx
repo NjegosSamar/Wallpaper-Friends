@@ -2,6 +2,30 @@ import download_btn from "./assets/download_btn.png";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import black_left_beige from "./assets/black_left_beige.png";
+import black_right_lavender from "./assets/black_right_lavender.png";
+import black_left_coral from "./assets/black_left_coral.png";
+import black_left_dark_blue from "./assets/black_left_dark_blue.png";
+import black_top_dark_purple from "./assets/black_top_dark_purple.png";
+import black_top_brown from "./assets/black_top_brown.png";
+import black_bottom_purple from "./assets/black_bottom_purple.png";
+import black_right_yellow from "./assets/black_right_yellow.png";
+import black_right_pink from "./assets/black_right_pink.png";
+import black_bottom_gray from "./assets/black_bottom_gray.png";
+import black_top_red from "./assets/black_top_red.png";
+import black_bottom_green from "./assets/black_bottom_green.png";
+import white_left_brown from "./assets/white_left_brown.png";
+import white_right_dark_purple from "./assets/white_right_dark_purple.png";
+import white_left_lavender from "./assets/white_left_lavender.png";
+import white_left_gray from "./assets/white_left_gray.png";
+import white_top_dark_blue from "./assets/white_top_dark_blue.png";
+import white_top_pink from "./assets/white_top_pink.png";
+import white_bottom_yellow from "./assets/white_bottom_yellow.png";
+import white_right_green from "./assets/white_right_green.png";
+import white_right_purple from "./assets/white_right_purple.png";
+import white_bottom_red from "./assets/white_bottom_red.png";
+import white_top_beige from "./assets/white_top_beige.png";
+import white_bottom_coral from "./assets/white_bottom_coral.png";
 
 type propsType = {
   type: String;
@@ -15,65 +39,65 @@ type Item = {
 
 const night: Item[] = [
   {
-    img: "./assets/black_left_beige.png",
+    img: black_left_beige,
     name: "Tuxedo Beige",
     description: "It's a chill friend",
   },
   {
-    img: "./assets/black_right_lavender.png",
+    img: black_right_lavender,
     name: "Tuxedo Lavender",
     description: "It's a playful friend",
   },
   {
-    img: "./assets/black_left_coral.png",
+    img: black_left_coral,
     name: "Tuxedo Coral",
     description: "It's a best friend",
   },
   {
-    img: "./assets/black_left_dark_blue.png",
+    img: black_left_dark_blue,
     name: "Tuxedo Dark Blue",
     description: "It's a happy friend",
   },
   {
-    img: "./assets/black_top_dark_purple.png",
+    img: black_top_dark_purple,
     name: "Tuxedo Dark Purple",
     description: "It's a chill friend",
   },
   {
-    img: "./assets/black_top_brown.png",
+    img: black_top_brown,
     name: "Tuxedo Brown",
     description: "It's a chill friend",
   },
   {
-    img: "./assets/black_bottom_purple.png",
+    img: black_bottom_purple,
     name: "Tuxedo Purple",
     description: "It's a chill friend",
   },
   {
-    img: "./assets/black_right_yellow.png",
+    img: black_right_yellow,
     name: "Tuxedo Yellow",
     description: "It's a happy friend",
   },
 
   {
-    img: "./assets/black_right_pink.png",
+    img: black_right_pink,
     name: "Tuxedo Pink",
     description: "It's a chill friend",
   },
   {
-    img: "./assets/black_bottom_gray.png",
+    img: black_bottom_gray,
     name: "Tuxedo Gray",
     description: "It's a chill friend",
   },
 
   {
-    img: "./assets/black_top_red.png",
+    img: black_top_red,
     name: "Tuxedo Red",
     description: "It's a chill friend",
   },
 
   {
-    img: "./assets/black_bottom_green.png",
+    img: black_bottom_green,
     name: "Tuxedo Green",
     description: "It's a chill friend",
   },
@@ -81,65 +105,65 @@ const night: Item[] = [
 
 const light: Item[] = [
   {
-    img: "./assets/white_left_brown.png",
+    img: white_left_brown,
     name: "Tuxedo Brown",
     description: "It's a chill friend",
   },
   {
-    img: "./assets/white_right_dark_purple.png",
+    img: white_right_dark_purple,
     name: "Tuxedo Dark purple",
     description: "It's a playful friend",
   },
   {
-    img: "./assets/white_left_lavender.png",
+    img: white_left_lavender,
     name: "Tuxedo Lavender",
     description: "It's a best friend",
   },
   {
-    img: "./assets/white_left_gray.png",
+    img: white_left_gray,
     name: "Tuxedo Gray",
     description: "It's a happy friend",
   },
   {
-    img: "./assets/white_top_dark_blue.png",
+    img: white_top_dark_blue,
     name: "Tuxedo Dark Blue",
     description: "It's a chill friend",
   },
   {
-    img: "./assets/white_top_pink.png",
+    img: white_top_pink,
     name: "Tuxedo Pink",
     description: "It's a chill friend",
   },
   {
-    img: "./assets/white_bottom_yellow.png",
+    img: white_bottom_yellow,
     name: "Tuxedo Yellow",
     description: "It's a chill friend",
   },
   {
-    img: "./assets/white_right_green.png",
+    img: white_right_green,
     name: "Tuxedo Green",
     description: "It's a happy friend",
   },
 
   {
-    img: "./assets/white_right_purple.png",
+    img: white_right_purple,
     name: "Tuxedo Purple",
     description: "It's a chill friend",
   },
   {
-    img: "./assets/white_bottom_red.png",
+    img: white_bottom_red,
     name: "Tuxedo Red",
     description: "It's a chill friend",
   },
 
   {
-    img: "./assets/white_top_beige.png",
+    img: white_top_beige,
     name: "Tuxedo Beige",
     description: "It's a chill friend",
   },
 
   {
-    img: "./assets/white_bottom_coral.png",
+    img: white_bottom_coral,
     name: "Tuxedo Coral",
     description: "It's a chill friend",
   },
