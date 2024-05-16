@@ -147,8 +147,6 @@ const light: Item[] = [
 ];
 
 export default function ImgSlider(props: propsType) {
-  const [isLoaded, setIsLoaded] = useState<Boolean>(false);
-
   const settings = {
     dots: false,
     infinite: true,

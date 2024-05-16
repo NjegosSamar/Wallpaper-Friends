@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import blackHead from "./assets/black-head.png";
-import whitekHead from "./assets/white-head.png";
+import whiteHead from "./assets/white-head.png";
 import ImgSlider from "./ImgSlider";
 
 export default function Wallpapers() {
@@ -33,7 +33,7 @@ export default function Wallpapers() {
         >
           Light Dragon{" "}
           <span>
-            <img src={whitekHead} alt="" className="w-8 h-8" />
+            <img src={whiteHead} alt="" className="w-8 h-8" />
           </span>
         </li>
       </ul>
