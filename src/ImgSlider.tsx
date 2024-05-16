@@ -15,65 +15,65 @@ type Item = {
 
 const night: Item[] = [
   {
-    img: "../public/imgs/black_left_beige.png",
+    img: "./assets/black_left_beige.png",
     name: "Tuxedo Beige",
     description: "It's a chill friend",
   },
   {
-    img: "../public/imgs/black_right_lavender.png",
+    img: "./assets/black_right_lavender.png",
     name: "Tuxedo Lavender",
     description: "It's a playful friend",
   },
   {
-    img: "../public/imgs/black_left_coral.png",
+    img: "./assets/black_left_coral.png",
     name: "Tuxedo Coral",
     description: "It's a best friend",
   },
   {
-    img: "../public/imgs/black_left_dark_blue.png",
+    img: "./assets/black_left_dark_blue.png",
     name: "Tuxedo Dark Blue",
     description: "It's a happy friend",
   },
   {
-    img: "../public/imgs/black_top_dark_purple.png",
+    img: "./assets/black_top_dark_purple.png",
     name: "Tuxedo Dark Purple",
     description: "It's a chill friend",
   },
   {
-    img: "../public/imgs/black_top_brown.png",
+    img: "./assets/black_top_brown.png",
     name: "Tuxedo Brown",
     description: "It's a chill friend",
   },
   {
-    img: "../public/imgs/black_bottom_purple.png",
+    img: "./assets/black_bottom_purple.png",
     name: "Tuxedo Purple",
     description: "It's a chill friend",
   },
   {
-    img: "../public/imgs/black_right_yellow.png",
+    img: "./assets/black_right_yellow.png",
     name: "Tuxedo Yellow",
     description: "It's a happy friend",
   },
 
   {
-    img: "../public/imgs/black_right_pink.png",
+    img: "./assets/black_right_pink.png",
     name: "Tuxedo Pink",
     description: "It's a chill friend",
   },
   {
-    img: "../public/imgs/black_bottom_gray.png",
+    img: "./assets/black_bottom_gray.png",
     name: "Tuxedo Gray",
     description: "It's a chill friend",
   },
 
   {
-    img: "../public/imgs/black_top_red.png",
+    img: "./assets/black_top_red.png",
     name: "Tuxedo Red",
     description: "It's a chill friend",
   },
 
   {
-    img: "../public/imgs/black_bottom_green.png",
+    img: "./assets/black_bottom_green.png",
     name: "Tuxedo Green",
     description: "It's a chill friend",
   },
@@ -81,65 +81,65 @@ const night: Item[] = [
 
 const light: Item[] = [
   {
-    img: "../public/imgs/white_left_brown.png",
+    img: "./assets/white_left_brown.png",
     name: "Tuxedo Brown",
     description: "It's a chill friend",
   },
   {
-    img: "../public/imgs/white_right_dark_purple.png",
+    img: "./assets/white_right_dark_purple.png",
     name: "Tuxedo Dark purple",
     description: "It's a playful friend",
   },
   {
-    img: "../public/imgs/white_left_lavender.png",
+    img: "./assets/white_left_lavender.png",
     name: "Tuxedo Lavender",
     description: "It's a best friend",
   },
   {
-    img: "../public/imgs/white_left_gray.png",
+    img: "./assets/white_left_gray.png",
     name: "Tuxedo Gray",
     description: "It's a happy friend",
   },
   {
-    img: "../public/imgs/white_top_dark_blue.png",
+    img: "./assets/white_top_dark_blue.png",
     name: "Tuxedo Dark Blue",
     description: "It's a chill friend",
   },
   {
-    img: "../public/imgs/white_top_pink.png",
+    img: "./assets/white_top_pink.png",
     name: "Tuxedo Pink",
     description: "It's a chill friend",
   },
   {
-    img: "../public/imgs/white_bottom_yellow.png",
+    img: "./assets/white_bottom_yellow.png",
     name: "Tuxedo Yellow",
     description: "It's a chill friend",
   },
   {
-    img: "../public/imgs/white_right_green.png",
+    img: "./assets/white_right_green.png",
     name: "Tuxedo Green",
     description: "It's a happy friend",
   },
 
   {
-    img: "../public/imgs/white_right_purple.png",
+    img: "./assets/white_right_purple.png",
     name: "Tuxedo Purple",
     description: "It's a chill friend",
   },
   {
-    img: "../public/imgs/white_bottom_red.png",
+    img: "./assets/white_bottom_red.png",
     name: "Tuxedo Red",
     description: "It's a chill friend",
   },
 
   {
-    img: "../public/imgs/white_top_beige.png",
+    img: "./assets/white_top_beige.png",
     name: "Tuxedo Beige",
     description: "It's a chill friend",
   },
 
   {
-    img: "../public/imgs/white_bottom_coral.png",
+    img: "./assets/white_bottom_coral.png",
     name: "Tuxedo Coral",
     description: "It's a chill friend",
   },
