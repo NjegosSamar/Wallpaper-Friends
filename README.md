@@ -14,6 +14,9 @@ Bring a touch of magic to your screens with Wallpaper Friends! Visit us today to
 
 👉 Live Demo: <a href="https://wallpaper-friends.vercel.app/" target="_blank">Wallpaper Friends</a>
 
+
+Click [here](https://www.geeksforgeeks.org/){:target="_blank"}
+
 **Build with:**
 » React JS
 » Tailwind
