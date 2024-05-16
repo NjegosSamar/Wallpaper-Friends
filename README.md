@@ -1,30 +1,25 @@
-# React + TypeScript + Vite
+<p align="center">
+  <img src=".//src/assets/logo.png" alt="Logo" width="200"/>
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About the project
+**Welcome to Wallpaper Friends, your go-to site for adorable baby dragon wallpapers!**
+Features:
+- Extensive Collection: Enjoy a wide range of baby dragon wallpapers in various themes and styles.
+- High-Resolution Images: Download crisp, vibrant wallpapers for any device.
+- Easy Downloads: Get your favorite wallpapers with a single click, no sign-up needed.
+- Regular Updates: Discover new baby dragon designs added frequently.
 
-Currently, two official plugins are available:
+Bring a touch of magic to your screens with Wallpaper Friends! Visit us today to explore and download enchanting baby dragon wallpapers.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 Live Demo: [Wallpaper Friends](https://wallpaper-friends.vercel.app/)
 
-## Expanding the ESLint configuration
+**Build with:**
+» React JS
+» Tailwind
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Screenshots of the project 📸
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+<p align="center">
+  <img src="./Homepage.png" alt="Full Website"/>
+</p>
